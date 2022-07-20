@@ -1,0 +1,3 @@
+This is a page I designed to complete the landing page project in the Odin Project Foundations course. The site is designed for a fictional company (Graffiti Bros. Skateboards) which I have used for previous design projects. The copy is all written by me, and the images are either designed by my (the logo) or are free-to-use images taken from the web.
+
+This project was designed to practice coding using html, as well as using css and flexbox to design a website. I also used it as an exercise in copy writing for a web page.
