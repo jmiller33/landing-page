@@ -28,10 +28,18 @@ ul {
 
 /* header section*/
 
+.bar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
 .header {
     width: 70%;
     margin:0;
-    color: #CCCCCB;
+    color: #1F2937;
     font-size: 18px;
     display: flex;
     flex-direction: row;
@@ -41,7 +49,7 @@ ul {
 
 .header-logo {
     font-size: 24px;
-    color:white;
+    color:#CD3333;
     font-weight: bold;
 }
 
@@ -53,6 +61,7 @@ ul {
     justify-content: space-between;
     gap:150px;
     margin:100px;
+    align-items: center;
 }
 
 .hero-section .left {
@@ -74,9 +83,8 @@ ul {
     color: #CCCCCB;
 }
 
-.upper .image {
-    width:300px;
-    background-color: black;
+.upper img {
+    width:250px;
     flex-grow:.75;
 }
 
@@ -117,12 +125,12 @@ ul {
     align-items: center;
 }
 
-.block .image {
+.block img {
     border-radius: 25px;
     border: 4px solid black;
-    padding: 20px;
-    width: 130px;
-    height: 130px;
+    padding: 0px;
+    width: 180px;
+    height: 180px;
 }
 
 .block .sub {
