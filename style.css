@@ -18,8 +18,8 @@ ul {
 /*upper section (contains header and hero)*/
 
 .upper {
-    background-color: #1F2937;
-    color: #F9FAF8;
+    background-color: #CD3333;
+    color: white;
     display: flex;
     width:100%;
     flex-direction: column;
@@ -31,7 +31,7 @@ ul {
 .header {
     width: 70%;
     margin:0;
-    color: #E5E7EB;
+    color: #CCCCCB;
     font-size: 18px;
     display: flex;
     flex-direction: row;
@@ -41,7 +41,7 @@ ul {
 
 .header-logo {
     font-size: 24px;
-    color:#F9FAF8;
+    color:white;
     font-weight: bold;
 }
 
@@ -71,7 +71,7 @@ ul {
 
 .left .sub {
     font-size: 18px;
-    color: #E5E7EB;
+    color: #CCCCCB;
 }
 
 .upper .image {
@@ -82,7 +82,7 @@ ul {
 
 .upper .button {
     border-radius: 20px;
-    background: #3882F6;
+    background: black;
     padding:10px;
     width:100px;
     text-align: center;
@@ -119,7 +119,7 @@ ul {
 
 .block .image {
     border-radius: 25px;
-    border: 4px solid #3882F6;
+    border: 4px solid black;
     padding: 20px;
     width: 130px;
     height: 130px;
@@ -137,7 +137,7 @@ ul {
 
 .quote-section {
     width:100%;
-    background-color: #E5E7EB;
+    background-color: #CCCCCB;
 
     display: flex;
     flex-direction: column;
@@ -160,6 +160,7 @@ ul {
     font-size: 20px;
     font-weight: bold;
     padding-bottom: 70px;
+    color:#CD3333;
 }
 
 /*call to action section*/
@@ -168,13 +169,12 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-
     color:#E5E7EB;
 }
 
 .call {
     border-radius: 20px;
-    background: #3882F6;
+    background: black;
     padding:10px;
     width:500px;
     display: flex;
@@ -201,7 +201,7 @@ ul {
 
 .call .button {
     border-radius: 25px;
-    border: 2px solid #E5E7EB;
+    border: 2px solid #CCCCCB;
     padding: 10px;
     width: 100px;
     height: fit-content;
@@ -213,7 +213,7 @@ ul {
 .footer {
     width:100%;
     margin: 0;
-    background-color: #E5E7EB;
+    background-color: #CD3333;
     height: 100px;
     flex:1 1 auto;
     text-align: center;
